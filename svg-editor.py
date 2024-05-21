@@ -85,6 +85,7 @@ def main():
         exit(-1)
 
     load_svg(filePath)
+    print("use ? to get help")
 
     while True:
         cmd = input(">>> ")
