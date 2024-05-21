@@ -8,6 +8,7 @@
 https://github.com/TootiFruti/FOSS-CCS/assets/128893456/c499b7ce-728f-4ada-b0d0-6166fe2bdaf6
 
 
+this script only replaces line to line, hence this won't work with entire paragraph, only 1 line at a time.
 
 # How it has been designed:
 - user friendliness 
