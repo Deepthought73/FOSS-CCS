@@ -22,3 +22,12 @@
               - card type = PLATINUM
               - NTDP = 0
 
+# 2 FOSS-CCS: Neofetch
+              - perk = When used, Arch users have to disclose themselves.
+              - user friendliness = 100%
+              - popularity = S 
+              - type = CLI UTIL
+              - hp = 28400
+              - card type = SILVER
+              - NTDP = 10.2
+
