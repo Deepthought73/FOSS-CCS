@@ -1,6 +1,14 @@
 
 # FOSS-CCS : Free and Open Source-Collectable CardS
 
+# Edit the template using svg-editor.py script.
+
+
+
+https://github.com/TootiFruti/FOSS-CCS/assets/128893456/c499b7ce-728f-4ada-b0d0-6166fe2bdaf6
+
+
+
 # How it has been designed:
 - user friendliness 
 - popularity
