@@ -40,3 +40,11 @@ this script only replaces line to line, hence this won't work with entire paragr
               - card type = SILVER
               - NTDP = 10.2
 
+# 3 FOSS-CCS: rm 
+              - perk =  SPECIAL ATTACT - "-f" Ability to delete, Forcefully. Combined with root privileges, You can delete any card from your opponent.
+              - user friendliness = 85%
+              - popularity = S 
+              - type = COREUTIL
+              - hp = 113840
+              - card type = GOLD
+              - NTDP = 0
